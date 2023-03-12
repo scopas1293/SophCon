@@ -1,5 +1,9 @@
 # Sophos Connect Upgrade Script to version 2.2.90.1104 for Windows Installations
 
+# Written by Tech Eagles (Bristol,TN | Panama City,FL)
+
+# Author Shaun Copas
+
 # This software checks to see if Sophos Connect is installed and what version
 
 # Checks if installed version is 2.2.90.1104 and if so sends message of already upgraded
