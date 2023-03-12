@@ -1,4 +1,4 @@
-# SophosConnectUpgradeScript to version 2.2.90 for Windows Installations
+# Sophos Connect UpgradeScript to version 2.2.90 for Windows Installations
 
 # This software checks to see if Sophos Connect is installed and what version
 
