@@ -1,5 +1,7 @@
 #Script written by Tech Eagles (Bristol, TN | Panama City, FL)
 
+Version: 1.5
+
 #Author: Shaun Copas
 
 #Purpose: To upgrade Sophos Connect clients to version 2.2.90.1104 (v2.2 MR1)per Sophos suggestion. Older clients contain known vulnerabilities.
