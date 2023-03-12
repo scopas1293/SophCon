@@ -8,7 +8,7 @@ Version: 1.5
 
 #For OS: Windows x64 and x86
 
-#Known vulnerabilities in older clients: CVE-2022-48309, CVE-2022-48310, CVE-4901
+#Known vulnerabilities in older clients: CVE-2022-48309, CVE-2022-48310, CVE-2022-4901
 
 #Sophos Connect Upgrade Powershell Script to version 2.2.90.1104 for Windows Installations
 
